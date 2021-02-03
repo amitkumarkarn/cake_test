@@ -1,0 +1,670 @@
+2021-02-03 16:24:22 Notice: Notice (8): Undefined index: name in [/var/www/html/projects/caketest/app/Controller/EmployeesController.php, line 28]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+EmployeesController::search() - APP/Controller/EmployeesController.php, line 28
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 499
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:24:45 Notice: Notice (8): Undefined index: name in [/var/www/html/projects/caketest/app/Controller/EmployeesController.php, line 28]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+EmployeesController::search() - APP/Controller/EmployeesController.php, line 28
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 499
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:09 Notice: Notice (8): Undefined index: name in [/var/www/html/projects/caketest/app/Controller/EmployeesController.php, line 27]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+EmployeesController::search() - APP/Controller/EmployeesController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 499
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:09 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 672]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 672
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:09 Notice: Notice (8): Undefined index: limit in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 675]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 675
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:09 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 676]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 676
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:09 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 677]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 677
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:09 Notice: Notice (8): Undefined index: current in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 695]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 695
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:09 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 696]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 696
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:09 Notice: Notice (8): Undefined variable: lists in [/var/www/html/projects/caketest/app/View/Employees/search.ctp, line 37]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+include - APP/View/Employees/search.ctp, line 37
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:52 Notice: Notice (8): Undefined index: name in [/var/www/html/projects/caketest/app/Controller/EmployeesController.php, line 27]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+EmployeesController::search() - APP/Controller/EmployeesController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 499
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:52 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 672]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 672
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:52 Notice: Notice (8): Undefined index: limit in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 675]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 675
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:52 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 676]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 676
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:52 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 677]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 677
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:52 Notice: Notice (8): Undefined index: current in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 695]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 695
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:52 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 696]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 696
+include - APP/View/Employees/search.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:25:52 Notice: Notice (8): Undefined variable: lists in [/var/www/html/projects/caketest/app/View/Employees/search.ctp, line 37]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+include - APP/View/Employees/search.ctp, line 37
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:52 Notice: Notice (8): Undefined index: name in [/var/www/html/projects/caketest/app/Controller/EmployeesController.php, line 27]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+EmployeesController::search() - APP/Controller/EmployeesController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 499
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:52 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 672]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 672
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:52 Notice: Notice (8): Undefined index: limit in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 675]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 675
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:52 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 676]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 676
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:52 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 677]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 677
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:52 Notice: Notice (8): Undefined index: current in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 695]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 695
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:52 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 696]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 696
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:52 Notice: Notice (8): Undefined variable: lists in [/var/www/html/projects/caketest/app/View/Employees/search.ctp, line 40]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+include - APP/View/Employees/search.ctp, line 40
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:56 Notice: Notice (8): Undefined index: name in [/var/www/html/projects/caketest/app/Controller/EmployeesController.php, line 27]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+EmployeesController::search() - APP/Controller/EmployeesController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 499
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:56 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 672]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 672
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:56 Notice: Notice (8): Undefined index: limit in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 675]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 675
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:56 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 676]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 676
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:56 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 677]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 677
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:56 Notice: Notice (8): Undefined index: current in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 695]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 695
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:56 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 696]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 696
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:26:56 Notice: Notice (8): Undefined variable: lists in [/var/www/html/projects/caketest/app/View/Employees/search.ctp, line 40]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+include - APP/View/Employees/search.ctp, line 40
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:31:08 Notice: Notice (8): Undefined index: name in [/var/www/html/projects/caketest/app/Controller/EmployeesController.php, line 27]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+EmployeesController::search() - APP/Controller/EmployeesController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 499
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:31:08 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 672]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 672
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:31:08 Notice: Notice (8): Undefined index: limit in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 675]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 675
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:31:08 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 676]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 676
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:31:08 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 677]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 677
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:31:08 Notice: Notice (8): Undefined index: current in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 695]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 695
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:31:08 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 696]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 696
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:31:08 Notice: Notice (8): Undefined variable: lists in [/var/www/html/projects/caketest/app/View/Employees/search.ctp, line 40]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+include - APP/View/Employees/search.ctp, line 40
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:33:43 Notice: Notice (8): Undefined index: name in [/var/www/html/projects/caketest/app/Controller/EmployeesController.php, line 27]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+EmployeesController::search() - APP/Controller/EmployeesController.php, line 27
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 499
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:33:43 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 672]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 672
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:33:43 Notice: Notice (8): Undefined index: limit in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 675]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 675
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:33:43 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 676]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 676
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:33:43 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 677]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 677
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:33:43 Notice: Notice (8): Undefined index: current in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 695]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 695
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:33:43 Notice: Notice (8): Undefined index: count in [/var/www/html/projects/caketest/lib/Cake/View/Helper/PaginatorHelper.php, line 696]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+PaginatorHelper::counter() - CORE/Cake/View/Helper/PaginatorHelper.php, line 696
+include - APP/View/Employees/search.ctp, line 39
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
+2021-02-03 16:33:43 Notice: Notice (8): Undefined variable: lists in [/var/www/html/projects/caketest/app/View/Employees/search.ctp, line 40]
+Trace:
+ErrorHandler::handleError() - CORE/Cake/Error/ErrorHandler.php, line 230
+include - APP/View/Employees/search.ctp, line 40
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 968
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+require - APP/webroot/index.php, line 117
+[main] - ROOT/index.php, line 41
+
